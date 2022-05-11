@@ -17,7 +17,7 @@
 |    220424     |                     220424_보강수업2s.md                     |     MongoDB, AWS, scrapy의 pipeline 연결과 sql로 보내기      |      |
 |    220425     |                         220425_s.md                          |                          Flask 실습                          |      |
 | 220426-220510 | [시각화 프로젝트](https://github.com/suyeee/Visualization-Project.git) | 시각화 프로젝트 진행 (주제: 코로나로 인한 사회적 거리두기가 개인에게 미친 영향) |      |
-|    220511     |                         220511_s.md                          | 데이터 엔지니어링 분반 첫시간, DE 개요, Spark 설치 및 AWS 연동 |      |
+|    220511     | [220511_s.md](https://github.com/suyeee/todo_study/blob/master/220511_s.md) | 데이터 엔지니어링 분반 첫시간, DE 개요, Spark 설치 및 AWS 연동 |      |
 |               |                                                              |                                                              |      |
 |               |                                                              |                                                              |      |
 |               |                                                              |                                                              |      |
