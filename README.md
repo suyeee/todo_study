@@ -20,7 +20,7 @@
 |    220511     | [220511_s.md](https://github.com/suyeee/todo_study/blob/master/220511_s.md) | 데이터 엔지니어링 분반 첫시간, DE 개요, Spark 설치 및 AWS 연동 |      |
 |    220512     |                                                              |                                                              |      |
 |    220513     |                                                              |                                                              |      |
-|    220516     |                         220516_s.md                          | Spark DataFrame API(filter, aggregation, groupBy(),Catalys t& Tungsten, Pipeline, Logical Planning 최적화, UDF) |      |
+|    220516     | [220516_s.md](https://github.com/suyeee/todo_study/blob/bc3a0fceacfdf6d77507b00c488cce45cfbb2442/220516_s.md) | Spark DataFrame API(filter, aggregation, groupBy(),Catalys t& Tungsten, Pipeline, Logical Planning 최적화, UDF) |      |
 |               |                                                              |                                                              |      |
 |               |                                                              |                                                              |      |
 
