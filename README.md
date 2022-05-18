@@ -21,6 +21,6 @@
 |    220512     |                                                              |                                                              |      |
 |    220513     |                                                              |                                                              |      |
 |    220516     | [220516_s.md](https://github.com/suyeee/todo_study/blob/master/220516_s.md) | `Spark DataFrame API`(filter, aggregation, groupBy(), Catalyst & Tungsten, Pipeline, Logical Planning 최적화, UDF), Spark 배운거 다 사용해서 미니 프로젝트 |      |
-|               |                                                              |                                                              |      |
-|               |                                                              |                                                              |      |
+|    220517     |                                                              |                                                              |      |
+|    220518     | [220518_s.md](https://github.com/suyeee/todo_study/blob/master/220518_s.md) | Airflow 개념 설명, Airflow 실습([실습코드](https://github.com/suyeee/todo_study/blob/master/220518_s.assets/kakao-pipeline.py)) |      |
 
