@@ -25,4 +25,8 @@
 |    220518     | [220518_s.md](https://github.com/suyeee/todo_study/blob/master/220518_s.md) | Airflow 개념 설명, Airflow 실습([실습코드](https://github.com/suyeee/todo_study/blob/master/220518_s.assets/kakao-pipeline.py)) |      |
 |    220519     |                                                              | 네이버 환율, 무신사 크롤러 만들고 Airflow로 파이프라인 구축하는 실습 |      |
 |    220520     | [220520_s.md](https://github.com/suyeee/todo_study/blob/master/220520_s.md) | Airflow 실습(Spark Pipeline 만들기 실습1, 실습2, 과제) , 도커 설치 |      |
+|    220523     | [220523_s.md](https://github.com/suyeee/todo_study/blob/master/220523_s.md) |                     Kafka 개념설명, 실습                     |      |
+|               |                                                              |                                                              |      |
+|    220525-    |                                                              |                       팀프로젝트 기간                        |      |
+|               |                                                              |                                                              |      |
 
