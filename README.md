@@ -30,4 +30,5 @@
 |    220526     | [220526_애자일_프로젝트_특강s.md](https://github.com/suyeee/todo_study/blob/master/220526_%EC%95%A0%EC%9E%90%EC%9D%BC_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8A%B9%EA%B0%95s.md) |                     애자일 프로젝트 특강                     |      |
 | 220525-220620 |                                                              |                  엔지니어링 팀프로젝트 기간                  |      |
 |    220530     | [220530_ProDS_특강1s.md](https://github.com/suyeee/todo_study/blob/master/220530_ProDS_%ED%8A%B9%EA%B0%951s.md) |               ProDS 특강1 (입문 실기 문제풀이)               |      |
+|    220531     | [220531_ProDS_특강2s.md](https://github.com/suyeee/todo_study/blob/master/220531_ProDS_%ED%8A%B9%EA%B0%952s.md) |               ProDS 특강2 (입문 실기 문제풀이)               |      |
 
