@@ -28,9 +28,10 @@
 |    220523     | [220523_s.md](https://github.com/suyeee/todo_study/blob/master/220523_s.md) |                     Kafka 개념설명, 실습                     |      |
 |    220524     | [220524_s.md](https://github.com/suyeee/todo_study/blob/master/220524_s.md) | Kafka-Python 실습1, docker-compose 실습(실습2, 실습3, 실습4) |      |
 |    220526     | [220526_애자일_프로젝트_특강s.md](https://github.com/suyeee/todo_study/blob/master/220526_%EC%95%A0%EC%9E%90%EC%9D%BC_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%8A%B9%EA%B0%95s.md) |                     애자일 프로젝트 특강                     |      |
-| 220525-220620 |                                                              |                  엔지니어링 팀프로젝트 기간                  |      |
+| 220525-220620 | [영화의 흥행요소 분석 프로젝트](https://github.com/suyeee/DE_Project) |                    엔지니어링 팀프로젝트                     |      |
 |    220530     | [220530_ProDS_특강1s.md](https://github.com/suyeee/todo_study/blob/master/220530_ProDS_%ED%8A%B9%EA%B0%951s.md) |               ProDS 특강1 (입문 실기 문제풀이)               |      |
 |    220531     | [220531_ProDS_특강2s.md](https://github.com/suyeee/todo_study/blob/master/220531_ProDS_%ED%8A%B9%EA%B0%952s.md) |               ProDS 특강2 (입문 실기 문제풀이)               |      |
 |    220609     |                                                              |                        알고리즘 특강1                        |      |
 |    220610     |                                                              |                        알고리즘 특강2                        |      |
+| 220621-220729 | [산불 예측 프로젝트](https://github.com/suyeee/DE_DS_project) |                     DE/ DS 합반 프로젝트                     |      |
 
